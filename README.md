@@ -65,11 +65,11 @@ To track Message Listener status you can open RabbitMQ panel in browser: http://
     python3 chat.py -l
 
 ## Server log demo
-![Server Log](./imgs/server.png)
+![Server Log](./imgs/server.PNG)
 
 
 ## Message Listener log demo
-![Message Listener](./imgs/messageListner.png)
+![Message Listener](./imgs/messageListner.PNG)
 	
 ### Run clinets
 
