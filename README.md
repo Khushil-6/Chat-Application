@@ -25,9 +25,14 @@ Admin
 	
 	\add <user>
 
+![add user](./imgs/add.PNG)
+
 ### remove user
 
 	\kick <user>
+	
+![kick user](./imgs/kick.PNG)
+
 
 ## Architecture
 ![App architecture](./imgs/architecture.png)
