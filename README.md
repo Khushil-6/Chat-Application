@@ -52,8 +52,10 @@ Install requirements:
     pip3 install -r requirements.txt
 
 ## RabbitMQ server
+![Server Log](./imgs/rabbit.PNG)
 
 To track Message Listener status you can open RabbitMQ panel in browser: http://127.0.0.1:15672 (login and password is ```guest```)
+
 
 ### Run Server and Message Listener
 
