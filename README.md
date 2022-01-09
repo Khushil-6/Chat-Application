@@ -42,15 +42,6 @@ Message Listener subscribes to "chat_events" queue. And when some information co
 
 ## Setup
 
-### Clone repo and install requirements
-Clone the repository and change the working directory:
-
-    git clone https://github.com/alexandr-gnrk/asychat.git
-    cd asychat
-Create and activate the virtual environment:
-
-    python3 -m venv ./venv
-    source ./venv/bin/activate
 Install requirements:
 
     pip3 install -r requirements.txt
